@@ -1,2 +1,2 @@
 # testREd
-https://vitalimart.github.io/testreadme/cv1
+https://VitaliMart.github.io/testRed/cv1
